@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bdp-disorder/static/css/main.6683710b.css",
+    "main.js": "/bdp-disorder/static/js/main.95440b84.js",
+    "static/media/bpd.webp": "/bdp-disorder/static/media/bpd.f21c95496b09e85e21d9.webp",
+    "static/media/img2.webp": "/bdp-disorder/static/media/img2.370dd46d82c3751fa5b4.webp",
+    "static/media/img4.webp": "/bdp-disorder/static/media/img4.c61db0a19f719cdc15a2.webp",
+    "static/media/img3.webp": "/bdp-disorder/static/media/img3.923c93ee5e876867080e.webp",
+    "static/media/img1.webp": "/bdp-disorder/static/media/img1.0124d369081025291b57.webp",
+    "index.html": "/bdp-disorder/index.html",
+    "main.6683710b.css.map": "/bdp-disorder/static/css/main.6683710b.css.map",
+    "main.95440b84.js.map": "/bdp-disorder/static/js/main.95440b84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6683710b.css",
+    "static/js/main.95440b84.js"
+  ]
+}
